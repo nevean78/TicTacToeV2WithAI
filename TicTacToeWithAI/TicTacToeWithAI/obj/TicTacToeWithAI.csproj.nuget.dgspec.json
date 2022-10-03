@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pc\\Desktop\\TicTacToeWithAI\\TicTacToeWithAI\\TicTacToeWithAI.csproj": {}
+    "C:\\Users\\Pc\\Documents\\GitHub\\TicTacToeV2WithAI\\TicTacToeWithAI\\TicTacToeWithAI\\TicTacToeWithAI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pc\\Desktop\\TicTacToeWithAI\\TicTacToeWithAI\\TicTacToeWithAI.csproj": {
+    "C:\\Users\\Pc\\Documents\\GitHub\\TicTacToeV2WithAI\\TicTacToeWithAI\\TicTacToeWithAI\\TicTacToeWithAI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\TicTacToeWithAI\\TicTacToeWithAI\\TicTacToeWithAI.csproj",
+        "projectUniqueName": "C:\\Users\\Pc\\Documents\\GitHub\\TicTacToeV2WithAI\\TicTacToeWithAI\\TicTacToeWithAI\\TicTacToeWithAI.csproj",
         "projectName": "TicTacToeWithAI",
-        "projectPath": "C:\\Users\\Pc\\Desktop\\TicTacToeWithAI\\TicTacToeWithAI\\TicTacToeWithAI.csproj",
+        "projectPath": "C:\\Users\\Pc\\Documents\\GitHub\\TicTacToeV2WithAI\\TicTacToeWithAI\\TicTacToeWithAI\\TicTacToeWithAI.csproj",
         "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc\\Desktop\\TicTacToeWithAI\\TicTacToeWithAI\\obj\\",
+        "outputPath": "C:\\Users\\Pc\\Documents\\GitHub\\TicTacToeV2WithAI\\TicTacToeWithAI\\TicTacToeWithAI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,3 +11,16 @@ C:\Users\Pc\Desktop\TicTacToeWithAI\TicTacToeWithAI\obj\Debug\netcoreapp3.1\TicT
 C:\Users\Pc\Desktop\TicTacToeWithAI\TicTacToeWithAI\obj\Debug\netcoreapp3.1\TicTacToeWithAI.dll
 C:\Users\Pc\Desktop\TicTacToeWithAI\TicTacToeWithAI\obj\Debug\netcoreapp3.1\TicTacToeWithAI.pdb
 C:\Users\Pc\Desktop\TicTacToeWithAI\TicTacToeWithAI\obj\Debug\netcoreapp3.1\TicTacToeWithAI.genruntimeconfig.cache
+C:\Users\Pc\Documents\GitHub\TicTacToeV2WithAI\TicTacToeWithAI\TicTacToeWithAI\bin\Debug\netcoreapp3.1\TicTacToeWithAI.exe
+C:\Users\Pc\Documents\GitHub\TicTacToeV2WithAI\TicTacToeWithAI\TicTacToeWithAI\bin\Debug\netcoreapp3.1\TicTacToeWithAI.deps.json
+C:\Users\Pc\Documents\GitHub\TicTacToeV2WithAI\TicTacToeWithAI\TicTacToeWithAI\bin\Debug\netcoreapp3.1\TicTacToeWithAI.runtimeconfig.json
+C:\Users\Pc\Documents\GitHub\TicTacToeV2WithAI\TicTacToeWithAI\TicTacToeWithAI\bin\Debug\netcoreapp3.1\TicTacToeWithAI.runtimeconfig.dev.json
+C:\Users\Pc\Documents\GitHub\TicTacToeV2WithAI\TicTacToeWithAI\TicTacToeWithAI\bin\Debug\netcoreapp3.1\TicTacToeWithAI.dll
+C:\Users\Pc\Documents\GitHub\TicTacToeV2WithAI\TicTacToeWithAI\TicTacToeWithAI\bin\Debug\netcoreapp3.1\TicTacToeWithAI.pdb
+C:\Users\Pc\Documents\GitHub\TicTacToeV2WithAI\TicTacToeWithAI\TicTacToeWithAI\obj\Debug\netcoreapp3.1\TicTacToeWithAI.csprojAssemblyReference.cache
+C:\Users\Pc\Documents\GitHub\TicTacToeV2WithAI\TicTacToeWithAI\TicTacToeWithAI\obj\Debug\netcoreapp3.1\TicTacToeWithAI.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\GitHub\TicTacToeV2WithAI\TicTacToeWithAI\TicTacToeWithAI\obj\Debug\netcoreapp3.1\TicTacToeWithAI.AssemblyInfo.cs
+C:\Users\Pc\Documents\GitHub\TicTacToeV2WithAI\TicTacToeWithAI\TicTacToeWithAI\obj\Debug\netcoreapp3.1\TicTacToeWithAI.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\GitHub\TicTacToeV2WithAI\TicTacToeWithAI\TicTacToeWithAI\obj\Debug\netcoreapp3.1\TicTacToeWithAI.dll
+C:\Users\Pc\Documents\GitHub\TicTacToeV2WithAI\TicTacToeWithAI\TicTacToeWithAI\obj\Debug\netcoreapp3.1\TicTacToeWithAI.pdb
+C:\Users\Pc\Documents\GitHub\TicTacToeV2WithAI\TicTacToeWithAI\TicTacToeWithAI\obj\Debug\netcoreapp3.1\TicTacToeWithAI.genruntimeconfig.cache

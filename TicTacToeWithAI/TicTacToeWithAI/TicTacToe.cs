@@ -235,6 +235,12 @@ namespace TicTacToeWithAI
                 gameStatus = true;
                 Console.WriteLine("Houve empate!");
             }
+
+            if (gameStatus)
+            {
+                Console.WriteLine("Clique em qualquer tecla para continuar!");
+                Console.ReadKey();
+            }
         }
 
         /* Check Game Lines */
