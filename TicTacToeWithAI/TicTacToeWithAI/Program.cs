@@ -6,7 +6,7 @@ namespace TicTacToeWithAI
     {
         static void Main(string[] args)
         {
-            new TicTacToe();
+            new Menu();
         }
     }
 }
